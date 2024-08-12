@@ -1,8 +1,8 @@
-# python-for-devops
-Python Devops work
+# python-for-DevOps
+Python DevOps work
 
 ## Create a project scaffold
-Create Deveopment environment that is coud-based:
+Create Development environment that is cloud-based:
 ### Colab Notebook
 ### Githib Codespaces
 ### AWS CloudShell
